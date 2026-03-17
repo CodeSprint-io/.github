@@ -1,12 +1,12 @@
-# 👋 Bem-vindo à ?
+#  Bem-vindo à ?
 Em breve.
 
-## 🚀 Projetos
+##  Projetos
 > Em breve...
 
-## 👥 Time
+## Time
 > Em breve...
 
-## 📫 Contato
+##  Contato
 - Email: 
 - Site:
